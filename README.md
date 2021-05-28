@@ -1,4 +1,4 @@
-#  Aplple Pie
+#  Aplple Plie
 ## Purpose
 This is a userscript made by a Tacos fan intended to remove the need to ever hold the Apple in your inventory.
 
